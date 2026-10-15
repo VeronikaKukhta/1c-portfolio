@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Заметки" id="81a9b4ac-8960-4a2e-97cb-99d335069824" configVersion="ec1ade2cb19d8e45bbc4620980e209ee00000000">
+			<Metadata name="Catalog.Заметки.Attribute.ДатаСоздания" id="7ab9ae3f-0ab7-42d8-8561-a3304bffce75"/>
+			<Metadata name="Catalog.Заметки.Attribute.ВажностьЗаметки" id="800164e2-156a-45c9-bd1e-7536b1be96a6"/>
+			<Metadata name="Catalog.Заметки.Attribute.ТекстЗаметки" id="9cd9d31e-929b-4803-bbae-2e6aad61c995"/>
+		</Metadata>
+		<Metadata name="Catalog.Заметки.Form.ФормаСписка" id="2854d25b-018b-409f-9f5e-ea999e8692a2" configVersion="7a98fcbfbcd1be4eace4f908229fb92400000000"/>
+		<Metadata name="Catalog.Заметки.Form.ФормаСписка.Form" id="2854d25b-018b-409f-9f5e-ea999e8692a2.0" configVersion="6705188c4489c64481c81f730831b4af00000000"/>
+		<Metadata name="Catalog.Заметки.Form.ФормаЭлемента" id="d4bd9725-7c0e-4134-b6a1-0867a35e9764" configVersion="033bfa7d7fb457488f63d501417c9dbe00000000"/>
+		<Metadata name="Catalog.Заметки.Form.ФормаЭлемента.Form" id="d4bd9725-7c0e-4134-b6a1-0867a35e9764.0" configVersion="470e4d1367e5d144ae5c8617fb9fce9a00000000"/>
+		<Metadata name="Configuration.Заметки" id="fcae34a5-c172-4caf-8ada-c42bbf14260b" configVersion="eb88ab112dce47499d3270bc0d7740b300000000"/>
+		<Metadata name="Enum.ВажностьЗаметки" id="a0a1a342-3cff-4cb9-839c-cc9f2627f1e8" configVersion="49ced899d6f38a4c9e6cfbde8fe462fe00000000">
+			<Metadata name="Enum.ВажностьЗаметки.EnumValue.Низкая" id="3b7b84b8-2882-4d1f-8e31-d5ccf79ad30c"/>
+			<Metadata name="Enum.ВажностьЗаметки.EnumValue.Высокая" id="5bde562c-5106-4bfb-86ee-0b5befe76294"/>
+			<Metadata name="Enum.ВажностьЗаметки.EnumValue.Средняя" id="f0605204-22a8-42a4-a993-904cfa17ab9d"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="35061b76-f5e8-4620-8d35-8b1050ac87fa" configVersion="de16a289d179a94486f4b5174a979c4000000000"/>
+		<Metadata name="Report.ЗаметкиПоВажности" id="f2177e9e-fa31-479a-b4fe-75a4312b114a" configVersion="b3d1bea1092d0747b5581c6901daaf9300000000"/>
+		<Metadata name="Report.ЗаметкиПоВажности.Template.ОсновнаяСхемаКомпоновкиДанных" id="85075ef8-2474-43a3-8f3b-728c551f1a98" configVersion="ce690cbd3c55c5469042ae7cbc07a59600000000"/>
+		<Metadata name="Report.ЗаметкиПоВажности.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="85075ef8-2474-43a3-8f3b-728c551f1a98.0" configVersion="f67168b641713d4b860bc0726bcf0a6c00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
