@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Привычки" id="d7c5bfc6-b144-4bc3-9c10-3e9fb401d06e" configVersion="4b01586464ac834aac09ed37212d3b0900000000">
+			<Metadata name="Catalog.Привычки.Attribute.Описание" id="56489c92-0562-44d5-9fe8-490280175946"/>
+			<Metadata name="Catalog.Привычки.Attribute.Периодичность" id="615c3976-4ab1-4524-aa4f-518633309c9b"/>
+		</Metadata>
+		<Metadata name="Catalog.Привычки.Form.ФормаСписка" id="616a0b6f-922b-4da7-8a1b-743a5b4d9395" configVersion="06174cfff96d3347a723840f6d37244b00000000"/>
+		<Metadata name="Catalog.Привычки.Form.ФормаСписка.Form" id="616a0b6f-922b-4da7-8a1b-743a5b4d9395.0" configVersion="4b8c020bfe7f2444a3024f373e03932000000000"/>
+		<Metadata name="Catalog.Привычки.Form.ФормаЭлемента" id="337866d2-5639-42c9-8db9-83fc92f2ea35" configVersion="310a14ae4b4f7d4c9109e3eeed0d626000000000"/>
+		<Metadata name="Catalog.Привычки.Form.ФормаЭлемента.Form" id="337866d2-5639-42c9-8db9-83fc92f2ea35.0" configVersion="9112557ff1d3074f9e69ec30b0daf13100000000"/>
+		<Metadata name="Configuration.ТрекерПривычек" id="d217cbd9-fb78-4140-81f5-77b9f5662db7" configVersion="727a9f3d4bc70948989d9ff6bd4c74a700000000"/>
+		<Metadata name="Document.ОтметкаПривычек" id="16d45d41-9249-4ddf-9518-d4750ef38e1a" configVersion="db1166975d653a40820cc0b5cc60fb5e00000000">
+			<Metadata name="Document.ОтметкаПривычек.TabularSection.СписокПривычек.Attribute.Привычка" id="296cfef9-e737-4f9d-ba3c-fab2dc43d85b"/>
+			<Metadata name="Document.ОтметкаПривычек.TabularSection.СписокПривычек.Attribute.Выполнено" id="3a4d7a04-6668-4b32-88f9-38135e5e14cb"/>
+			<Metadata name="Document.ОтметкаПривычек.TabularSection.СписокПривычек" id="aac0a8fe-a599-4962-a4bb-d722c4176a2b"/>
+			<Metadata name="Document.ОтметкаПривычек.TabularSection.СписокПривычек.Attribute.Комментарий" id="c35c8b53-c5da-4f87-aff4-6cb04cd73fac"/>
+			<Metadata name="Document.ОтметкаПривычек.Attribute.ДатаОтметки" id="f1ea14f0-544f-47f8-94a6-b7948cd139da"/>
+		</Metadata>
+		<Metadata name="Document.ОтметкаПривычек.Form.ФормаДокумента" id="1fcc032e-361b-4ef0-997c-7d4872699c03" configVersion="8fc2560d7b4d964eb649370df7d85eac00000000"/>
+		<Metadata name="Document.ОтметкаПривычек.Form.ФормаДокумента.Form" id="1fcc032e-361b-4ef0-997c-7d4872699c03.0" configVersion="5b93ceae0c596f499f309f87f90437e500000000"/>
+		<Metadata name="Document.ОтметкаПривычек.ObjectModule" id="16d45d41-9249-4ddf-9518-d4750ef38e1a.0" configVersion="bd3656006c95fa46a8b8d854e53f508400000000"/>
+		<Metadata name="Enum.ПериодичностьПривычек" id="49b3f53e-1b26-4f87-8c49-1596a0e3ae05" configVersion="0c7c797e24127d4ba9ed4c81c64c40a800000000">
+			<Metadata name="Enum.ПериодичностьПривычек.EnumValue.Ежемесячно" id="0687d2b5-c459-4e74-bb03-b9a0f115d59b"/>
+			<Metadata name="Enum.ПериодичностьПривычек.EnumValue.Еженедельно" id="1e4c41a5-3ff6-44c1-9326-56d7b87e1446"/>
+			<Metadata name="Enum.ПериодичностьПривычек.EnumValue.Ежедневно" id="fa9d5158-d488-469a-972a-7da56529c982"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ВыполнениеПривычек" id="bdb3ca62-39bd-48bc-a5f3-a8ad05e3fd42" configVersion="debf476d8a6e5b44be81ad4c8af7be0d00000000">
+			<Metadata name="InformationRegister.ВыполнениеПривычек.Resource.Выполнено" id="34c0ae09-e7c7-411b-836c-9ee790831918"/>
+			<Metadata name="InformationRegister.ВыполнениеПривычек.Resource.Комментарий" id="9b976795-8a53-4a6a-8fca-9c870c0e3b0e"/>
+			<Metadata name="InformationRegister.ВыполнениеПривычек.Dimension.Привычка" id="c330c6e1-b320-448a-9680-4662f33ed571"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="b3d12008-6fca-4038-b5f5-1e5b76f463dc" configVersion="abeaaf4627d12d4ea74f2b11cfe1c0d000000000"/>
+		<Metadata name="Report.СтатистикаПривычек" id="3f975b4f-9aca-41c6-8235-1cc9e4f1fdae" configVersion="8074fdcd97441b40a5493d7428c59f8c00000000"/>
+		<Metadata name="Report.СтатистикаПривычек.Template.ОсновнаяСхемаКомпоновкиДанных" id="19ef8e68-98ae-4679-aa84-6e480bd4c55a" configVersion="f71d167eb5d72d4ab8e88ceaf0ab9d1500000000"/>
+		<Metadata name="Report.СтатистикаПривычек.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="19ef8e68-98ae-4679-aa84-6e480bd4c55a.0" configVersion="a6e2a50fe401254ea0ffc9e42a7b123200000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
