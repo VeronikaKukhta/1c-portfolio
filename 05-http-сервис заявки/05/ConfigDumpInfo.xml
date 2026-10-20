@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Заявки" id="568252ec-b629-4293-b2dd-b589d9b23c61" configVersion="6de5852f2e37ac41a1e65a451dc1ebdb00000000">
+			<Metadata name="Catalog.Заявки.Attribute.Статус" id="03324466-3084-4286-a6fd-cfc474f8f763"/>
+			<Metadata name="Catalog.Заявки.Attribute.Описание" id="08f35595-8668-4353-91b6-cef4a421968e"/>
+		</Metadata>
+		<Metadata name="Catalog.Заявки.Form.ФормаСписка" id="856e3d36-f0ee-48ed-979e-c669a7430b07" configVersion="4e82c912c2fb434f96a75ba3a7c297cf00000000"/>
+		<Metadata name="Catalog.Заявки.Form.ФормаСписка.Form" id="856e3d36-f0ee-48ed-979e-c669a7430b07.0" configVersion="3fb0105c506da941991fb099bcdd5b6c00000000"/>
+		<Metadata name="Catalog.Заявки.Form.ФормаЭлемента" id="217df35d-46ce-4386-b50b-cc6fadd57a9c" configVersion="7a9dfce0a38d3b488321c84e5dc7e42f00000000"/>
+		<Metadata name="Catalog.Заявки.Form.ФормаЭлемента.Form" id="217df35d-46ce-4386-b50b-cc6fadd57a9c.0" configVersion="fb8176facd6a8343a89ac8f3da14671c00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="77d3af47-8168-4133-8048-713a6d424d7a" configVersion="2042779c77a28445a5bf14a024438baa00000000"/>
+		<Metadata name="Enum.СтатусЗаявки" id="bbcfecd9-46a8-430f-bb0d-cca7e41ac8a4" configVersion="adeb98141f05144c861051260db7304a00000000">
+			<Metadata name="Enum.СтатусЗаявки.EnumValue.Доставлено" id="97693962-1b8c-4232-9963-46f21215f751"/>
+			<Metadata name="Enum.СтатусЗаявки.EnumValue.ВОбработке" id="9ff20bb6-6103-42e0-b6cf-aa9fab12dd94"/>
+			<Metadata name="Enum.СтатусЗаявки.EnumValue.Отклонено" id="ac0e3db3-35fc-4e0b-9077-75f25e348c3e"/>
+		</Metadata>
+		<Metadata name="HTTPService.ЗаявкиСервис" id="68a35e07-6084-4f5f-bdb5-5850771d6392" configVersion="2a9cb2e21e60a2458b960f577a0e662200000000">
+			<Metadata name="HTTPService.ЗаявкиСервис.URLTemplate.СписокЗаявок" id="31324b6e-6c71-481b-9af9-859f57487a8c"/>
+			<Metadata name="HTTPService.ЗаявкиСервис.URLTemplate.СписокЗаявок.Method.GetList" id="61939a2b-b4aa-455f-9f2a-980f37644dcd"/>
+		</Metadata>
+		<Metadata name="HTTPService.ЗаявкиСервис.Module" id="68a35e07-6084-4f5f-bdb5-5850771d6392.0" configVersion="9ecffce469e3394799fdaf2dde32455f00000000"/>
+		<Metadata name="Language.Русский" id="34396d8a-93bb-4861-bc01-2b1bf57b0f39" configVersion="68bd8c71b3c67547aa0b6606ac7391d500000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
