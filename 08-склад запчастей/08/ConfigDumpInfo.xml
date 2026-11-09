@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ОстаткиЗапчастей" id="5b818c3e-59b4-4bda-bf3f-52f873e7d8c4" configVersion="4be697e8159537428859cebda6db9aae00000000">
+			<Metadata name="AccumulationRegister.ОстаткиЗапчастей.Dimension.Запчасть" id="5e1dc303-b4a3-4d69-8fa9-e14aa2177f70"/>
+			<Metadata name="AccumulationRegister.ОстаткиЗапчастей.Resource.Количество" id="acc94f10-ca7b-4fa7-8093-836c87cfd1f9"/>
+			<Metadata name="AccumulationRegister.ОстаткиЗапчастей.Dimension.Склад" id="b4343963-ca2f-450b-b14f-3f5f8d13682e"/>
+		</Metadata>
+		<Metadata name="Catalog.Запчасти" id="8fb07af2-774e-4e5b-9be0-e91906789b47" configVersion="9ff608c50e8af74d9b1bb3ab8a01e54f00000000">
+			<Metadata name="Catalog.Запчасти.Attribute.Цена" id="1497896f-0090-4815-adc4-fe053e5b22b9"/>
+			<Metadata name="Catalog.Запчасти.Attribute.ЕдиницаИзмерения" id="9acf1785-e4ea-43fe-98ce-5ee20fc872be"/>
+		</Metadata>
+		<Metadata name="Catalog.Склады" id="cc30ad6d-6f8a-4d20-be1e-20683ae3bc55" configVersion="b3aa19292008d947bf8f6edcea11edb000000000"/>
+		<Metadata name="Configuration.Запчасти" id="738cccf8-348f-45ac-b619-26aed2dfc6e6" configVersion="7a219a0570ad9e4091f4446c2a1492a400000000"/>
+		<Metadata name="Document.ПриходнаяНакладная" id="99cf235f-e9d9-4cb6-bdec-a587e4075551" configVersion="f5a072ebec05974f9070921815cc8dce00000000">
+			<Metadata name="Document.ПриходнаяНакладная.Attribute.Склад" id="1d69129f-731a-4ae8-a9ea-1220a58eb34d"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокЗапчастей" id="7e5412c9-48cc-4085-9e34-2c439ae0a843"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокЗапчастей.Attribute.Количество" id="9e8057c8-191f-4646-9906-26ec76733148"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокЗапчастей.Attribute.Запчасть" id="a0090beb-2e2e-41a7-878a-3b494415f193"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокЗапчастей.Attribute.Сумма" id="abb7e87e-e196-4b39-9e24-caf48880df68"/>
+		</Metadata>
+		<Metadata name="Document.ПриходнаяНакладная.ObjectModule" id="99cf235f-e9d9-4cb6-bdec-a587e4075551.0" configVersion="20cd0ebaf7dcf248afbdcad11426d31f00000000"/>
+		<Metadata name="Document.СписаниеВРемонт" id="c379c2d6-d887-41e8-bbd5-58bc03ee6887" configVersion="939217912475fd41be700ed94f711f0300000000">
+			<Metadata name="Document.СписаниеВРемонт.TabularSection.СписокЗапчастей.Attribute.Запчасть" id="0d484a91-3c7f-4ce3-9e04-9402b9c128c2"/>
+			<Metadata name="Document.СписаниеВРемонт.Attribute.Склад" id="27f4185b-9473-49c5-a4a3-56012508bd55"/>
+			<Metadata name="Document.СписаниеВРемонт.TabularSection.СписокЗапчастей" id="714dea2a-e216-4711-bcfd-8bb2895c1c04"/>
+			<Metadata name="Document.СписаниеВРемонт.TabularSection.СписокЗапчастей.Attribute.Количество" id="a4842a69-0e18-41bf-a998-b4798a3d7e1f"/>
+		</Metadata>
+		<Metadata name="Document.СписаниеВРемонт.AdditionalIndexes" id="c379c2d6-d887-41e8-bbd5-58bc03ee6887.3" configVersion="c3de941439862641b38fd67f426cd4ed00000000"/>
+		<Metadata name="Document.СписаниеВРемонт.Help" id="c379c2d6-d887-41e8-bbd5-58bc03ee6887.1" configVersion="e8848f205180334f85305fef08a8585000000000"/>
+		<Metadata name="Document.СписаниеВРемонт.ManagerModule" id="c379c2d6-d887-41e8-bbd5-58bc03ee6887.2" configVersion="725950ca69d3704a9fe6831d1484913d00000000"/>
+		<Metadata name="Document.СписаниеВРемонт.ObjectModule" id="c379c2d6-d887-41e8-bbd5-58bc03ee6887.0" configVersion="c556e034329d56458c4ca8b028426bde00000000"/>
+		<Metadata name="Language.Русский" id="75cafffd-5f52-42f1-849a-19d6c624d276" configVersion="cee202a9dbf3c649906503cb47a4a56100000000"/>
+		<Metadata name="Report.ОстаткиНаСкладах" id="bbc4bb7f-6069-40a8-a082-1672c975a65a" configVersion="5232f47775d0cc48b4dac8248ddacc5100000000"/>
+		<Metadata name="Report.ОстаткиНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных" id="da8d39fa-da3c-4f9c-aa1f-4059184aa825" configVersion="11276a0770fa5e4caf9e22c1cf32bae100000000"/>
+		<Metadata name="Report.ОстаткиНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="da8d39fa-da3c-4f9c-aa1f-4059184aa825.0" configVersion="10342b6d94e7a248bad49896be98cef800000000"/>
+		<Metadata name="Subsystem.Склад" id="46fa9ba9-ee97-45e6-bfec-f69e825283e4" configVersion="fa299048112ed645a01eea5c63575cc100000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
